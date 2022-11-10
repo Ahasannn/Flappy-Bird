@@ -30,7 +30,7 @@ In this project, I have designed a video game by using [C++](https://cplusplus.c
 
 # Installation
 
-Requirements :
+### Requirements
 
 * Programming Language: C++ using OpenGL
 * Operating System: Windows Operating System
@@ -38,7 +38,7 @@ Requirements :
 * Graphics Library: GL/glut.h
 * OpenGL 2.0
 
-Install OpenGl 2.0 and then create a glut project. After that run the main.cpp file.
+Install OpenGL 2.0 and then create a glut project. After that run the main.cpp file.
 
 <hr/>
 
