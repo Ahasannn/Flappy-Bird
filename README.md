@@ -20,3 +20,7 @@ In this project, I have designed a video game by using [C++](https://cplusplus.c
 <hr/>
 
 # Gameplay 
+
+![Gameplay](Images/Gameplay.png)
+
+<hr/>
