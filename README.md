@@ -12,10 +12,13 @@ In this project, I have designed a video game by using [C++](https://cplusplus.c
 
 # Game Controls 
 
-| Syntax      | Description |
+| Actions    | Buttons |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+|  The bird leap upward     |  Keyboard Space Button or Mouse Left Click  |
+| Pause the game  |   Mouse Right Click    |
+| Restart the game after ending |   Keyboard Space Button |
+| Restart or Exit after pausing the game | Select with Mouse Left Click |
+
 
 <hr/>
 
@@ -24,3 +27,19 @@ In this project, I have designed a video game by using [C++](https://cplusplus.c
 ![Gameplay](Images/Gameplay.png)
 
 <hr/>
+
+# Installation
+
+Requirements :
+
+* Programming Language: C++ using OpenGL
+* Operating System: Windows Operating System
+* Compiler: GCC Compiler
+* Graphics Library: GL/glut.h
+* OpenGL 2.0
+
+Install OpenGl 2.0 and then create a glut project. After that run the main.cpp file.
+
+<hr/>
+
+
