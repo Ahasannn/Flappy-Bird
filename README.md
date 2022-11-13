@@ -1,6 +1,6 @@
 # Flappy-Bird
 
-In this project, I have designed a video game by using [C++](https://cplusplus.com/doc/tutorial/) and basic [OpenGL](https://www.opengl.org/) functions.
+In this project, I have designed a game by using [C++](https://cplusplus.com/doc/tutorial/) and basic [OpenGL](https://www.opengl.org/) functions.
 
 <hr/>
 
